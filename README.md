@@ -3,7 +3,7 @@
 ## 🧑 My name is Gabriel.
 
 <div>
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/gabrielsantos8">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielsantos8&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsantos8&layout=compact&langs_count=16&theme=onedark"/>
 </div>
