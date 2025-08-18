@@ -30,6 +30,7 @@
 ### ❓ What i'm?
 
 - 👨‍💻 A web/system developer, with 3 years of experience.
+- 👨‍💻 A data engineer, with 1 year of experience.
 
 
 ![Snake animation](https://github.com/gabrielsantos8/gabrielsantos8/blob/output/github-contribution-grid-snake.svg)
