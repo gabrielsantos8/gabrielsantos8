@@ -16,9 +16,37 @@
 ## 📊 Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielsantos8&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsantos8&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielsantos8&theme=tokyo-night&hide_border=true&area=true&custom_title=Gabriel's%20Contribution%20Graph"
+    alt="Contribution Graph"
+  />
 </p>
+
+<p align="center">
+  <img
+    width="60%"
+    src="https://streak-stats.demolab.com?user=gabrielsantos8&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabrielsantos8&theme=tokyonight"
+        alt="GitHub Contribution Stats"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gabrielsantos8&theme=tokyonight&utcOffset=-3"
+        alt="Most Productive Time"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
